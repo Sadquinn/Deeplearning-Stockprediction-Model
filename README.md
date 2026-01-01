@@ -1,1 +1,1 @@
-# Basic-Deeplearning-Stockprediction-Bot
+# Basic-Deeplearning-Stockprediction-NNModel
