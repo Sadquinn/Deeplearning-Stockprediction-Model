@@ -4,11 +4,11 @@
 
 In the initial experiment, both RNN and LSTM models were trained and evaluated using the same dataset and identical parameter settings. The results are shown below.
 
-![Figure 1: RNN with Look-back = 5 days, MSE = 1.50](graphs/2023IntelStock1.png)
+![Figure 1: RNN with Look-back = 5 days, MSE = 1.50](graphs/2023IntelStockPrice1.png)
 
 **Figure 1.** RNN model with a 5-day look-back window, achieving an MSE of 1.50.
 
-![Figure 2: LSTM with Look-back = 5 days, MSE = 1.75](graphs/2023IntelStock2.png)
+![Figure 2: LSTM with Look-back = 5 days, MSE = 1.75](graphs/2023IntelStockLSTM2.png)
 
 **Figure 2.** LSTM model with a 5-day look-back window, achieving an MSE of 1.75.
 
@@ -16,7 +16,7 @@ From Figures 1 and 2, it is evident that the RNN model achieved higher predictio
 
 ---
 
-![Figure 3: RNN with Look-back = 30 days, MSE = 2.80](graphs/2023IntelStock3.png)
+![Figure 3: RNN with Look-back = 30 days, MSE = 2.80](graphs/2023IntelStockPrice3.png)
 
 **Figure 3.** RNN model with a 30-day look-back window, achieving an MSE of 2.80.
 
